@@ -1,4 +1,5 @@
-""" Homework 1: Control """
+""" Homework 1: Control"""
+""" Weijie.Wu 19/03/2018"""
 
 # Q1
 from operator import add, sub
